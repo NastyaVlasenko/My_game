@@ -1,0 +1,25 @@
+/CREATE MAP
+/BIOME DESERT
+#.#T...........
+.#.#...O.......
+#T...........O.
+...O......#.T..
+.........O.#.#.
+..O......#T.#.#
+...........#..#
+#O..........O#.
+.#.T#T.........
+#..#.#.........
+#.#.#.O......O.
+.#.#......O...T
+.O.O........#..
+.........#T.#.#
+.........T.#..#
+/PLACE ENTITIES
+Citadel CITADEL 0 13 0
+Citadel CITADEL 1 1 14
+Knight KNIGHT 0 13 1
+Knight KNIGHT 1 1 13
+Chest COMMON_CHEST 0 13 8
+Chest RARE_CHEST 0 2 3
+Chest EPIC_CHEST 0 1 10

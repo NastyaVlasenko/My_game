@@ -1,0 +1,25 @@
+/CREATE MAP
+/BIOME TAIGA
+..T..O.....T.O.
+.O.T..T..T..T..
+.T.........T..T
+.T.T........OT.
+..O.......T....     
+.T...~~~O.....T
+....~~~~~~..T..
+T..T~~~~~~~....     
+...~~~~~~~~..T.
+.O.T..~~~..T..O
+.T..........T..     
+....T.......O..
+.T........T..T.
+O..T.......T..O     
+.TO...T...O.T..
+/PLACE ENTITIES
+Citadel CITADEL 0 6 4
+Citadel CITADEL 1 7 10
+Knight KNIGHT 0 6 3
+Knight KNIGHT 1 7 11
+Chest RARE_CHEST 0 13 4
+Chest RARE_CHEST 0 2 10
+

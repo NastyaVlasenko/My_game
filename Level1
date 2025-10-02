@@ -1,0 +1,23 @@
+/CREATE MAP
+/BIOME PLAINS
+.T..........T.O
+...O......O....
+OT........T.T..
+..TO..........T
+~T..T.....OT.T.
+~~............T
+~~~~.T.......~~
+~~~~.........~~
+~~~~.......T.~~
+~~~T.........~~
+~~T..T.....T..~
+~O.T.....O..TT~
+.T..O......T..T
+.............O.
+.O.T......O.T..
+/PLACE ENTITIES
+Citadel CITADEL 0 7 0
+Citadel CITADEL 1 7 14
+Knight KNIGHT 0 7 1
+Knight KNIGHT 1 7 13
+Chest COMMON_CHEST 0 8 7
