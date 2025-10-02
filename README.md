@@ -50,7 +50,7 @@ make
 ./play
 
 # Build and run tests
-make test
+make test_play
 
 # Clean build files
 make cleanall
@@ -87,7 +87,7 @@ The project includes comprehensive unit tests covering:
 
 Run tests with:
 ```bash
-make test
+make test_play
 ```
 
 ## Game Mechanics
@@ -110,3 +110,4 @@ make test
 ## License
 
 This project is open source and available under the MIT License.
+
